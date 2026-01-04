@@ -83,7 +83,7 @@ Responsible use of AI tools enhanced analysis and documentation while reinforcin
   The Escape Puzzle Box is an interactive,multiplayer embedded system with the limit of 2-4 players that combines ESP32-based wireless communication, WebSocket-enabled real-time interaction, and electromechanical locking mechanisms.
 </p>
 <p>
-  <a href="https://github.com/sure-trust/KURUKUTI-LEHA-PRIYA-g14-es-and-iot/blob/e4e2a5df0f015fd4541d32a70fb5593a1d19850d/Course%20report/EscapePuzzleBoxReport.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/KURUKUTI-LEHA-PRIYA/Escape-Puzzle-Box/blob/main/SURE%20Trust%20project%20document.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 
