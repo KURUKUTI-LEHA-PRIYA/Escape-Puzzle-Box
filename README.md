@@ -18,7 +18,7 @@
 
 <h2 style = "color:#333;"> Student Details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
-    <p><strong>Name:</strong> Kurukuti Leha Priya </p>
+    <p><strong>Name:</strong> Leha Priya Kurukuti </p>
     <p><strong>Email ID:</strong> klehapriya@gmail.com </p>
     <p><strong>College Name:</strong> Rajiv Gandhi University of Knowledge Technologies, RK Valley </p>
     <p><strong>Branch/Specialization :</strong> Electronics and Communication Engineering </p>
